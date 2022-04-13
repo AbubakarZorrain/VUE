@@ -822,7 +822,7 @@ background: #DDFFFA;
 width: 709px;
 height: 126px;
 left: 365px;
-top: 0px;
+top: 70px;
 /* transform: matrix(-1, 0, 0, 1, 0, 0); */
 font-family: 'Poppins';
 font-style: normal;
